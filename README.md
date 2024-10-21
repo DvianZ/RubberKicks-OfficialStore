@@ -1,2 +1,2 @@
 # RubberKicks-OfficialStore
-Website Resmi Official Store Rubber-Kicks
+Website Resmi Official Store Sepatu Rubber-Kicks
