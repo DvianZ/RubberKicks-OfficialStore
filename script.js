@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     animasiMunculSaatScroll();
 
     function bukaPopupSport() {
-        window.open('payment-sport.html', 'PopupWindow', 'width=500,height=800');
+        window.open('payment-sport.html', 'PopupWindow', 'width=400,height=800');
     }
 
     const popupButtonSport = document.getElementById('popup-button-sport');
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function bukaPopupCasual() {
-        window.open('payment-casual.html', 'PopupWindow', 'width=500,height=800');
+        window.open('payment-casual.html', 'PopupWindow', 'width=400,height=800');
     }
 
     const popupButtonCasual = document.getElementById('popup-button-casual');
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function bukaPopupRunning() {
-        window.open('payment-running.html', 'PopupWindow', 'width=500,height=800');
+        window.open('payment-running.html', 'PopupWindow', 'width=400,height=800');
     }
 
     const popupButtonRunning = document.getElementById('popup-button-running');
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function bukaPopupLifestyle() {
-        window.open('payment-lifestyle.html', 'PopupWindow', 'width=500,height=800');
+        window.open('payment-lifestyle.html', 'PopupWindow', 'width=400,height=800');
     }
 
     const popupButtonLifestyle = document.getElementById('popup-button-lifestyle');
